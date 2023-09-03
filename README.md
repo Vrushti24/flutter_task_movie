@@ -1,16 +1,9 @@
 # flutter_task_movie
 
-A new Flutter project.
+Task was to create a single screen app. I need to call an API that contains a list of movies and its other info. Create a single list view screen to display a list of movies.  
 
-## Getting Started
+## Final Output
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1693742843](https://github.com/Vrushti24/flutter_task_movie/assets/71961160/f6317f3e-2224-4852-9020-5f77e05717cf)
+![Screenshot_1693742837](https://github.com/Vrushti24/flutter_task_movie/assets/71961160/69cbcd89-bac7-4862-ad03-92700f7b355e)
+![Screenshot_1693742834](https://github.com/Vrushti24/flutter_task_movie/assets/71961160/8c21b85e-31c9-4e0a-b9e4-10b33277a721)
